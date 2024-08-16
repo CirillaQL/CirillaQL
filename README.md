@@ -1,5 +1,7 @@
 ### 👋 Introduction
-Hi, I'm Qian Lu. I am a Go developer from Dalian, China. I graduated from Jilin University with a major in Software Engineering. I have experience working with Golang, Kubernetes, and DevOps.
+Hi there! I'm Qian Lu, a Go developer based in Dalian, China. With a background in Software Engineering from Jilin University, my expertise spans Golang, Kubernetes, and DevOps practices.
+
+<img src="https://api.iconify.design/skill-icons:golang.svg" alt="Golang" width="40" height="40"/>
 
 
 Language and tools:
