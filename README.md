@@ -32,8 +32,6 @@ Currently interested in **AI Infrastructure** and exploring the intersection of 
 ## 📚 Currently Learning
 <img src="https://api.iconify.design/skill-icons:cpp.svg" alt="C++" width="40" height="40"/> <img src="https://api.iconify.design/simple-icons:nvidia.svg" alt="NVIDIA" width="40" height="40"/> <img src="https://api.iconify.design/skill-icons:rust.svg" alt="Rust" width="40" height="40"/> <img src="https://api.iconify.design/skill-icons:react-dark.svg" alt="React" width="40" height="40"/> <img src="https://api.iconify.design/skill-icons:nextjs-light.svg" alt="Next.js" width="40" height="40"/>
 
-## 📊 GitHub Stats
-![CirillaQL's Github stats](https://github-readme-stats.vercel.app/api?username=CirillaQL&show_icons=true&theme=default)
 
 ## 📫 Let's Connect
 Feel free to reach out for collaborations or just a friendly chat about cloud-native technologies!
