@@ -1,5 +1,7 @@
 # 👋 Hi there! I'm Qian Lu
 
+- 🌐 Personal Website: [eduardoqian.com](https://eduardoqian.com)
+
 ## 🎓 Education
 - **M.Sc. in High Performance Computer Systems** (Current)  
   Chalmers University of Technology, Gothenburg, Sweden
@@ -18,19 +20,80 @@ Currently interested in **AI Infrastructure** and exploring the intersection of 
 ## 🛠️ Tech Stack
 
 ### Languages
-<img src="https://api.iconify.design/skill-icons:golang.svg" alt="Golang" width="40" height="40"/> <img src="https://api.iconify.design/skill-icons:python-light.svg" alt="Python" width="40" height="40"/>
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://api.iconify.design/skill-icons:golang.svg" width="45" height="45" alt="Golang" />
+      <br>Golang
+    </td>
+    <td align="center" width="90">
+      <img src="https://api.iconify.design/skill-icons:python-light.svg" width="45" height="45" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://api.iconify.design/skill-icons:cpp.svg" width="45" height="45" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://api.iconify.design/skill-icons:typescript.svg" width="45" height="45" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://api.iconify.design/skill-icons:javascript.svg" width="45" height="45" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+  </tr>
+</table>
 
 ### Cloud Platforms
-<img src="https://api.iconify.design/skill-icons:aws-dark.svg" alt="AWS" width="40" height="40"/> <img src="https://api.iconify.design/skill-icons:gcp-dark.svg" alt="GCP" width="40" height="40"/> <img src="https://api.iconify.design/skill-icons:azure-dark.svg" alt="Azure" width="40" height="40"/>
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://api.iconify.design/skill-icons:aws-dark.svg" width="45" height="45" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://api.iconify.design/skill-icons:gcp-dark.svg" width="45" height="45" alt="GCP" />
+      <br>GCP
+    </td>
+    <td align="center" width="90">
+      <img src="https://api.iconify.design/skill-icons:azure-dark.svg" width="45" height="45" alt="Azure" />
+      <br>Azure
+    </td>
+  </tr>
+</table>
 
 ### DevOps & Tools
-<img src="https://api.iconify.design/skill-icons:kubernetes.svg" alt="Kubernetes" width="40" height="40"/> <img src="https://api.iconify.design/skill-icons:docker.svg" alt="Docker" width="40" height="40"/> <img src="https://api.iconify.design/skill-icons:terraform-light.svg" alt="Terraform" width="40" height="40"/> <img src="https://api.iconify.design/skill-icons:git.svg" alt="Git" width="40" height="40"/> <img src="https://api.iconify.design/skill-icons:linux-light.svg" alt="Linux" width="40" height="40"/>
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://api.iconify.design/skill-icons:kubernetes.svg" width="45" height="45" alt="Kubernetes" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="90">
+      <img src="https://api.iconify.design/skill-icons:docker.svg" width="45" height="45" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://api.iconify.design/skill-icons:terraform-light.svg" width="45" height="45" alt="Terraform" />
+      <br>Terraform
+    </td>
+    <td align="center" width="90">
+      <img src="https://api.iconify.design/skill-icons:git.svg" width="45" height="45" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://api.iconify.design/skill-icons:linux-light.svg" width="45" height="45" alt="Linux" />
+      <br>Linux
+    </td>
+  </tr>
+</table>
 
 ## 📜 Certifications
 - 🏆 **CKAD** (Certified Kubernetes Application Developer) - CNCF
-
-## 📚 Currently Learning
-<img src="https://api.iconify.design/skill-icons:cpp.svg" alt="C++" width="40" height="40"/> <img src="https://api.iconify.design/simple-icons:nvidia.svg" alt="NVIDIA" width="40" height="40"/> <img src="https://api.iconify.design/skill-icons:rust.svg" alt="Rust" width="40" height="40"/> <img src="https://api.iconify.design/skill-icons:react-dark.svg" alt="React" width="40" height="40"/> <img src="https://api.iconify.design/skill-icons:nextjs-light.svg" alt="Next.js" width="40" height="40"/>
 
 
 ## 📫 Let's Connect
